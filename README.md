@@ -7,7 +7,11 @@ Parente-Čapková, Viola & Laippala, Veronika (submitted): _L. Onervan varhaisen
 - <keywords-small/> sisältää artikkelissa tarkastellut avainsanat
 - <scripts/> sisältää käytetyt koodit
 
-| Word         | Value   | Word        | Value   |
+### Avainsanat
+
+Tässä taulukossa listataan kaikki artikkelissa tarkastellut avainsanat ja niiden log likelihood -arvot.
+
+| Avainsana         | Arvo   | Avainsana        | Arvo   |
 |-------------|--------|------------|--------|
 | mirdja      | 1742.88 | runar      | 217.26  |
 | rolf        | 207.68  | runari     | 132.59  |
