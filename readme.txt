@@ -1,5 +1,5 @@
 
-## L. Onervan varhaisen proosatuotannon tyylipiirteitä korpuslingvistiikan avainsana-menetelmän valossa
+##L. Onervan varhaisen proosatuotannon tyylipiirteitä korpuslingvistiikan avainsana-menetelmän valossa
 
 Tässä hakemistossa on aineistot ja lähdekoodit seuraavaan artikkeliin:
 
