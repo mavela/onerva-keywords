@@ -6,7 +6,8 @@ Parente-Čapková, Viola & Laippala, Veronika (submitted): _L. Onervan varhaisen
 
 - <keywords-small/> sisältää artikkelissa tarkastellut avainsanat
 - <scripts/> sisältää käytetyt koodit
-
+- <data-small/> sisältää käytetyt aineistot
+  
 ### Avainsanat
 
 Tässä taulukossa listataan kaikki artikkelissa tarkastellut avainsanat ja niiden log likelihood -arvot.
