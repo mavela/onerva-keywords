@@ -11,7 +11,7 @@ Parente-Čapková, Viola & Laippala, Veronika (submitted): _L. Onervan varhaisen
 
 Tässä taulukossa listataan kaikki artikkelissa tarkastellut avainsanat ja niiden log likelihood -arvot.
 
-| Avainsana         | Arvo   | Avainsana        | Arvo   |
+| Avainsana         | Arvo   | Avainsana        | Ll-Arvo   |
 |-------------|--------|------------|--------|
 | mirdja      | 1742.88 | runar      | 217.26  |
 | rolf        | 207.68  | runari     | 132.59  |
